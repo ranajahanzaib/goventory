@@ -11,7 +11,7 @@
  *  @docs           https://docs.appzaib.com/goventory/goventory
  */
 
-package goventory
+package main
 
 import (
 	"fmt"
