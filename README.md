@@ -1,2 +1,2 @@
 # goventory
-Open Source IMS in Go.
+An Open Source IMS in Go.
